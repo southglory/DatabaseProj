@@ -18,7 +18,7 @@ public class DBConn {
 		return db;
 	}
 
-	public Connection getConnect() {// db 시스템에 연결
+	public Connection getConnect() {// db시스템에 연결
 		Connection conn = null;
 		try {
 			Class.forName(driver);
