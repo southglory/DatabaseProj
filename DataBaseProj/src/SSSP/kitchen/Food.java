@@ -1,4 +1,4 @@
-package kitchen;
+package SSSP.kitchen;
 
 public class Food {
 

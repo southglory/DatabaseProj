@@ -1,8 +1,8 @@
-package order;
+package SSSP.order;
 
 import java.util.ArrayList;
 
-import kitchen.Food;
+import SSSP.kitchen.Food;
 
 public interface Dao {
 

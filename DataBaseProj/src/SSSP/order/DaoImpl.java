@@ -1,4 +1,4 @@
-package order;
+package SSSP.order;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -6,8 +6,8 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 
+import SSSP.kitchen.Food;
 import dbconn.DBConn;
-import kitchen.Food;
 
 public class DaoImpl implements Dao {
 
